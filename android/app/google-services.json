@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "56681870669",
+    "project_id": "pushnotificationquote",
+    "storage_bucket": "pushnotificationquote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56681870669:android:010d7c2e11305443a7b304",
+        "android_client_info": {
+          "package_name": "com.example.quotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56681870669-let0lsa01m3tsp9tg4m55l0tetd92mig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpk5VByfyv5KUDGFQuicK7zAMn9tNRBGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56681870669-let0lsa01m3tsp9tg4m55l0tetd92mig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56681870669:android:372b9e8686624af1a7b304",
+        "android_client_info": {
+          "package_name": "com.example.quotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56681870669-let0lsa01m3tsp9tg4m55l0tetd92mig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpk5VByfyv5KUDGFQuicK7zAMn9tNRBGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56681870669-let0lsa01m3tsp9tg4m55l0tetd92mig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
